@@ -14,7 +14,7 @@
   </div><br>
   
  
-   ![Snake animation](https://github.com/Alberto21-boop/Alberto21-boop/blob/output/github-contribution-grid-snake.svg)
+   ![Alberto21 GitHub Stats](https://github.com/Alberto21-boop/Alberto21-boop/blob/output/github-contribution-grid-snake.svg)
 
   DEV em construção
 
