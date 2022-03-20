@@ -12,10 +12,11 @@
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   
   
-  ![Snake animation](https://github.com/Alberto21-boop/Alberto21-boop/output/github-contribution-grid-snake.svg)
+  
   
 </div><br>
   
+  ![Snake animation](https://github.com/Alberto21-boop/Alberto21-boop/output/github-contribution-grid-snake.svg)
  
    
     
