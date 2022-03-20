@@ -16,7 +16,7 @@
   
 </div><br>
   
-  ![Snake animation](https://github.com/Alberto21-boop/Alberto21-boop/output/github-contribution-grid-snake.svg)
+  
  
    
     
