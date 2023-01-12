@@ -1,4 +1,8 @@
 ## Oi eu sou o Àlberto Barbòsa !👋 
+## 👨‍💻 Trabalho hoje com front-end
+## 👨‍🎓 Estudo no momento Typescript, React e Javascript e afins ...
+## 🚹 Pornome Ele/Dele
+
 
 
 ![Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alberto21-boop&show_icons&theme=blue-green)
@@ -7,16 +11,17 @@
 ## Tecnologias que uso no meu trabalho e no meu dia!
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <i class="devicon-react-original-wordmark colored"></i>
+  <i class="devicon-javascript-plain colored"></i>
+  <i class="devicon-html5-plain-wordmark colored"></i>
+  <i class="devicon-css3-plain colored"></i>
+  <i class="devicon-csharp-plain colored"></i>
+  <i class="devicon-dotnetcore-plain colored"></i>
+  <i class="devicon-typescript-plain colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
+  <i class="devicon-visualstudio-plain colored"></i>
 
-  
-  
-  
-  
 </div><br>
   
   
