@@ -4,9 +4,8 @@
 ## 🚹 Pronome Ele/Dele
 
 <div align="center">
-  <a href="https://github.com/davidluiz91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidluiz91&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=cobalt"/>
+![Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alberto21-boop&show_icons&theme=blue-green)
+![Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto21-boop&show_icons&theme=blue-green)
 </div>
 
 
