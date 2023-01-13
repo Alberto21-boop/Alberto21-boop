@@ -1,7 +1,7 @@
 ## Oi eu sou o Àlberto Barbòsa !👋 
 ## 👨‍💻 Trabalho hoje com front-end
 ## 👨‍🎓 Estudo no momento Typescript, React e Javascript e afins ...
-## 🚹 Pornome Ele/Dele
+## 🚹 Pronome Ele/Dele
 
 <div align="center">
   <a href="https://github.com/davidluiz91">
