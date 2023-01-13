@@ -4,8 +4,8 @@
 ## 🚹 Pronome Ele/Dele
 
 <div align="center">
-       [Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alberto21-boop&show_icons&theme=blue-green)
-       [Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto21-boop&show_icons&theme=blue-green)
+       ![Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alberto21-boop&show_icons&theme=blue-green)
+       ![Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto21-boop&show_icons&theme=blue-green)
 </div>
 
 
