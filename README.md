@@ -1,12 +1,12 @@
-## Oi eu sou o Àlberto Barbòsa !👋 
+### Oi eu sou o Àlberto Barbòsa !👋 
 ## 👨‍💻 Trabalho hoje com front-end
 ## 👨‍🎓 Estudo no momento Typescript, React e Javascript e afins ...
 ## 🚹 Pronome Ele/Dele
 
-<div align="center">
+
        ![Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alberto21-boop&show_icons&theme=blue-green)
        ![Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto21-boop&show_icons&theme=blue-green)
-</div>
+![Alberto21 GitHub stats](https://github-readme-stats.Alberto21-boop.app/api?username=Alberto21-boop_icons=true&theme=tokyonight)
 
 
 ## Tecnologias que uso no meu trabalho e no meu dia!
