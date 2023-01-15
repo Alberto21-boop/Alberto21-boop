@@ -3,10 +3,8 @@
 ## 👨‍🎓 Estudo no momento Typescript, React e Javascript e afins ...
 ## 🚹 Pronome Ele/Dele
 
-
-       ![Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alberto21-boop&show_icons&theme=blue-green)
-       ![Alberto21 GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto21-boop&show_icons&theme=blue-green)
-![Alberto21 GitHub stats](https://github-readme-stats.Alberto21-boop.app/api?username=Alberto21-boop_icons=true&theme=tokyonight)
+![Alberto21 GitHub stats](https://github-readme-stats.Alberto21-boop.app/api?useAlberto21-boop_icons=true&theme=tokyonight)
+[![Alberto21](https://github-readme-stats.Alberto21-boop.app/api/top-langs/?username=Alberto21-boop)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que uso no meu trabalho e no meu dia!
